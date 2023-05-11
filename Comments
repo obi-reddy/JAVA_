@@ -1,0 +1,32 @@
+#comments 
+
+There are two types of comments in Java:
+
+1. Single-line comments: These comments start with two forward slashes (//) and continue until the end of the line. For example:
+
+```
+// This is a single-line comment
+int x = 10; // This is also a single-line comment
+```
+
+2. Multi-line comments: These comments start with /* and end with */. They can span multiple lines. For example:
+
+```
+/*
+This is a multi-line comment
+It can span multiple lines
+*/
+int y = 20; /* This is also a multi-line comment */
+```
+
+Comments can be useful in many ways:
+
+1. Documentation: Comments can be used to document the purpose, behavior, and limitations of your code. This makes it easier for other developers to understand and use your code.
+
+2. Debugging: Comments can help you debug your code by providing additional information about specific sections of your code.
+
+3. Code organization: Comments can help you organize your code by dividing it into sections or by grouping related statements together.
+
+4. Reminders: Comments can also be used as reminders to yourself or to other developers about future improvements, TODOs, or bug fixes.
+
+In general, writing clear and concise comments is an important skill for developers, as it can make your code more readable, maintainable, and accessible to others.
